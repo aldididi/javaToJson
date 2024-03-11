@@ -1,1 +1,1 @@
-Run class readData on src folder
+Run class writeData & readData on src folder
